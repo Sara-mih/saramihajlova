@@ -1,0 +1,583 @@
+header li{
+    display: inline-block;
+    text-decoration: none;
+    color: white !important;
+    font-weight: bold;
+    font-family: Arial;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 15px;
+    margin-bottom: 5px;
+    position: relative;
+}
+header ul{
+    display: flex;
+    justify-content: flex-start;
+}
+.navone{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px #931832;
+}
+.nav{
+    color: white;
+    text-decoration: none;
+    border-radius: 30px;
+    /*border: 5px solid #931832;*/
+    /*background: #931832;*/
+    margin-bottom: -10px;
+    display: inline-block;
+}
+#main{
+    background: #ff144a;
+    height: 40px;
+    border-radius: 5px;
+    border: 5px solid #ff144a;
+}
+#main1{
+    background: #931832;
+    color: white;
+    margin-top: 20px;
+    height: 85px;
+    font-size: 25px;
+    font-family: Arial;
+    border: 4px solid #931832;
+    border-radius: 5px;
+
+}
+.sara{
+    /*mix-blend-mode: lighten;*/
+    width: 27%;
+    position: relative;
+    background: #931832;
+    margin-left: 1000px;
+    margin-top: 52px;
+}
+footer{
+    background: #931832;
+    height: 80px;
+    color: #931832;
+    border: 2px solid #931832;
+    border-radius: 5px;
+    margin-top: 41px;
+    display: block;
+    position: relative;
+}
+.title{
+    margin-right: 500px;
+    width: 325px;
+    margin-left: 22px;
+}
+.media{
+    width: 106px;
+    margin-left: 1260px;
+    margin-top: -7px;
+    margin-bottom: 51px;
+}
+#hello{
+    color: #ff144a;
+    font-size: 50px;
+    margin-top: -415px;
+    position: absolute;
+    margin-left: 192px;
+    font-weight: bold;
+}
+#s{
+    color: #931832;
+    font-weight: bold;
+    font-size: 80px;
+}
+#hello .text{
+    color: grey;
+    font-size: 10px;
+    margin-top: -56px;
+}
+#hello{
+    /*background-image: url("photos/light (1).jpg");*/
+    /*background-size: cover;*/
+    /*position: absolute;*/
+}
+.strelka{
+    position: relative;
+    width: 50px;
+    align-items: flex-end;
+    display: inline-block;
+    left: 600px;
+}
+.circle{
+    width: 140px;
+    margin-left: -30px;
+    position: relative;
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dark{
+    width: 371px;
+    margin-left: 400px;
+    position: absolute;
+    display: inline-block;
+    align-items: center;
+    display: inline-block;
+    margin-top: 87px;
+}
+.light{
+    width: 5000px;
+    margin-left: 300px;
+    position: absolute;
+    display: inline-block;
+    align-items: center;
+    display: inline-block;
+    margin-top: 90px;
+}
+.light{
+    width: 50px;
+}
+.contact1{
+    width: 310px;
+    position: relative;
+    flex-direction: row;
+    bottom: 270px;
+    left: 270px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 20px;
+}
+.contact2{
+    width: 30%;
+    position: relative;
+    display: flex;
+    margin-left: 1146px;
+    flex-direction: row;
+    clear: right;
+}
+.about{    font-weight: bold;
+    color: #931832;
+    font-size: 30px;
+    position: relative;
+    top: -36px;
+}
+.s{
+    color: #ff144a;
+    font-weight: bold;
+    font-size: 20px;
+}
+.txt{
+    text-align: justify;
+    font-size: 15px;
+    position: absolute;
+    bottom: 170px;
+    left: 600px;
+    padding: inherit;
+}
+.m{
+    position: fixed;
+}
+.travel{
+    width: 500px;
+    position: relative;
+    left: 677px;
+    justify-content: center;
+    bottom: 8px;
+}
+.tr{
+    margin-left: 695px;
+    color: white;
+    margin-top: 90px;
+    position: relative;
+}
+.t3{
+    bottom: 31px;
+    position: relative;
+    margin-left: 85px;
+}
+.poseben{
+    position: relative;
+}
+.ttext{
+    color: #ff144a;
+    position: absolute;
+    bottom: 517px;
+    margin-left: 400px;
+    font-weight: bold;
+}
+.turkey{
+    color: #ff144a;
+    position: absolute;
+    bottom: 517px;
+    margin-left: 1320px;
+    font-weight: bold;
+}
+.ss{
+    position: absolute;
+    width: 138px;
+    bottom: 319px;
+    margin-left: 411px;
+    box-shadow: 2px 2px 2px #888888;
+}
+.cr{position: absolute;
+    width: 136px;
+    margin-left: 280px;
+    bottom: 319px;
+    box-shadow: 2px 2px 2px #888888;
+}
+.garden{
+    position: absolute;
+    width: 138px;
+    margin-left: 552px;
+    bottom: 319px;
+    box-shadow: 2px 2px 2px #888888;
+}
+.prava{
+    position: absolute;
+    width: 110px;
+    margin-left: 414px;
+    bottom: 511px;
+}
+.prava2{
+    position: absolute;
+    width: 110px;
+    margin-left: 420px;
+    bottom: 281px;
+}
+.cro{
+    position: absolute;
+    bottom: 240px;
+    margin-left: 395px;
+    text-align: center;
+    font-size: 10px;
+}
+.turkey1{
+    position: absolute;
+    width: 138px;
+    box-shadow: 2px 2px 2px #888888;
+    bottom: 319px;
+    margin-left: 1170px;
+}
+.turkey2{
+    position: absolute;
+    width: 138px;
+    box-shadow: 2px 2px 2px #888888;
+    bottom: 319px;
+    margin-left: 1301px;
+}
+.turkey3{
+    position: absolute;
+    width: 138px;
+    box-shadow: 2px 2px 2px #888888;
+    bottom: 319px;
+    margin-left: 1440px;
+}
+.prava3{
+    position: absolute;
+    width: 110px;
+    margin-left: 1320px;
+    bottom: 511px;
+}
+.prava4{
+    position: absolute;
+    width: 110px;
+    margin-left: 1319px;
+    bottom: 281px;
+}
+.tur{
+    position: absolute;
+    bottom: 240px;
+    margin-left: 1268px;
+    text-align: center;
+    font-size: 10px;
+}
+.venice{
+    position: absolute;
+    width: 129px;
+    margin-left: 280px;
+    bottom: 319px;
+    box-shadow: 2px 2px 2px #888888;
+}
+.mon{
+    position: absolute;
+    width: 138px;
+    bottom: 319px;
+    margin-left: 415px;
+    box-shadow: 2px 2px 2px #888888;
+}
+.eur{
+    color: #ff144a;
+    position: absolute;
+    bottom: 523px;
+    margin-left: 426px;
+    font-weight: bold;
+}
+
+.euro{
+    position: absolute;
+    bottom: 240px;
+    margin-left: 345px;
+    text-align: center;
+    font-size: 10px;
+}
+.sturkey1{
+    position: absolute;
+    width: 136px;
+    box-shadow: 2px 2px 2px #888888;
+    bottom: 319px;
+    margin-left: 1170px;
+}
+.stur{
+    position: absolute;
+    bottom: 240px;
+    margin-left: 1295px;
+    text-align: center;
+    font-size: 10px;
+}
+.copen{
+    color: #ff144a;
+    position: absolute;
+    bottom: 523px;
+    margin-left: 1294px;
+    font-weight: bold;
+}
+.pink{
+    position: absolute;
+    width: 136px;
+    left: 1736px;
+}
+.pink_c{
+    width: 144px;
+    top: 201px;
+    margin-left: 861px;
+    position: absolute;
+}
+.e{
+    position: absolute;
+    width: 136px;
+}
+.p{
+    width: 218px;
+    position: absolute;
+    left: 133px;
+}
+.p1{
+    width: 218px;
+    position: absolute;
+    left: 333px;
+}
+.p2{
+    width: 218px;
+    position: absolute;
+    left: 552px;
+}
+.p3{
+    width: 218px;
+    position: absolute;
+    left: 752px;
+}
+.p4{
+    width: 218px;
+    position: absolute;
+    left: 952px;
+}
+.p5{
+    width: 218px;
+    position: absolute;
+    left: 1169px;
+}
+.p6{
+    width: 218px;
+    position: absolute;
+    left: 1376px;
+}
+.p7{
+    width: 218px;
+    position: absolute;
+    left: 1460px;
+}
+.p10{
+    width: 218px;
+    position: absolute;
+    left: 1345px;
+}
+.p11{
+    width: 218px;
+    position: absolute;
+
+}
+.soon{
+    width: 315px;
+    position: absolute;
+    bottom: 100px;
+    left: -136px;
+}
+.obr{
+    width: 92px;
+    position: absolute;
+    bottom: 100px;
+    left: 177px
+
+}
+.cooming{
+    color: #931832;
+    top: 177px;
+    position: absolute;
+    left: 786px;
+    font-weight: bold;
+    font-size: 37px;
+}
+.hr hr{
+    position: absolute;
+    bottom: 174px;
+    width: 1620px;
+    color: black;
+    left: 268px;
+}
+.sheep{
+    position: absolute;
+    width: 121px;
+    bottom: 184px;
+    left: 340px;
+}
+.made{
+    color: #931832;
+    top: 217px;
+    position: absolute;
+    left: 776px;
+    /* font-weight: bold; */
+    font-size: 20px;
+}
+.candles{
+    width: 154px;
+    position: absolute;
+    bottom: 184px;
+    left: 472px;
+}
+.moon{
+    width: 116px;
+    position: absolute;
+    bottom: 184px;
+    left: 633px;
+}
+.body{
+    width: 80px;
+    position: absolute;
+    bottom: 184px;
+    left: 754px;
+}
+.bear{
+    width: 99px;
+    position: absolute;
+    bottom: 184px;
+    left: 945px;
+}
+.blue{
+    width: 99px;
+    position: absolute;
+    bottom: 184px;
+    left: 841px;
+}
+.mermaid{
+    width: 99px;
+    position: absolute;
+    bottom: 184px;
+    left: 988px;
+}
+.butt{
+    width: 155px;
+    position: absolute;
+    bottom: 184px;
+    left: 834px;
+}
+.white{
+    width: 150px;
+    position: absolute;
+    bottom: 184px;
+    left: 1085px;
+}
+.cat{
+    width: 106px;
+    position: absolute;
+    bottom: 184px;
+    left: 1232px;
+}
+.uni{
+    width: 155px;
+    position: absolute;
+    bottom: 184px;
+    left: 1543px;
+}
+.dogs{
+    width: 221px;
+    position: absolute;
+    bottom: 184px;
+    left: 1329px;
+}
+.tri{
+    color: #931832;
+    top: 185px;
+    position: absolute;
+    left: 928px;
+    /* font-weight: bold; */
+    font-size: 46px;
+}
+nav ul li a:hover{
+    transition: 0.5s;
+    font-weight: bold;
+}
+#main > nav > ul > li>a:hover{
+    transition: 1s;
+    z-index: 20;
+    font-weight: bolder;
+    color: #931832;
+}
+body > div.txt{
+    position: absolute;
+    top: 280px;
+}
+.p20{
+    width: 218px;
+    position: absolute;
+    left: 1528px;
+
+}
+.p21{
+    width: 218px;
+    position: absolute;
+    left: 1671px;
+}
+#f{
+    background: #931832;
+    height: 80px;
+    color: #931832;
+    border: 2px solid #931832;
+    border-radius: 5px;
+    margin-top: 136px;
+    display: block;
+    position: relative;
+
+}
+.sara:hover{
+    transition: 1s;
+    z-index: 20;
+    font-weight: bolder;
+    color: #931832;
+}
+.media:hover{
+    transition: 1s;
+    z-index: 20;
+    font-weight: bolder;
+    color: #931832;
+}
+.kriva{
+    width: 145px;
+    position: absolute;
+    bottom: 184px;
+    left: 1694px;
+}
